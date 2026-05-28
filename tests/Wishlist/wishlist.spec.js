@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { WishlistPage } from '../../pages/WishlistPage';
 
-test.describe('Wishlist Service - Sauce Demo (POM + Advanced Concepts)', () => {
+test.describe('Wishlist Service - Sauce Demo ()', () => {
 
     let wishlist;
 
